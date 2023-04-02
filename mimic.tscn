@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://b3g0vwy8v54k3"]
+
+[ext_resource type="Texture2D" uid="uid://btntr70m8iicj" path="res://SlotMonstersColored.png" id="1_36ud7"]
+
+[node name="mimic" type="Sprite2D"]
+scale = Vector2(4, 4)
+texture = ExtResource("1_36ud7")
+hframes = 6
+frame = 2
